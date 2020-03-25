@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Task 1
-nav_order: 2
+title: Making a Discord server
+nav_order: 1
 ---
 
-# Task 2
+# Making a Discord server
 {: .no_toc }
 
 
-Placeholder text for task 2!
+Placeholder text for task 1!
 {: .fs-6 .fw-300 }
 
 ## Table of contents
