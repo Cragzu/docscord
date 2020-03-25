@@ -13,3 +13,8 @@ The first quote by [George Carlin](https://www.brainyquote.com/quotes/george_car
 This second quote from [Robin Williams](https://www.brainyquote.com/quotes/robin_williams_378502?src=t_funny) illustrates how I feel about users not reading my documentation and then proceeding to complain in the help forums...
 
 > I'm sorry, if you were right, I'd agree with you.
+
+## Cute Parrots
+I like parrots because they're cute, intelligent, and can talk, fly, and live for a very long time.
+
+![alt text](https://wereallaboutpets.com/wp-content/uploads/2019/12/Cute-Parrot-Names.jpg "Three cute parrots on a branch")
