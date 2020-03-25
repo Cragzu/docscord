@@ -22,7 +22,10 @@ I like parrots because they're cute, intelligent, and can talk, fly, and live fo
 ## Tables are Fun
 
 |Text|Simplified Text|
-| ---|---:|
-|      | right-aligned |
-|  | centered      |
-| zebra stripes | are neat      |
+| ---|---|
+|Due to the fact that|*because*|
+|In the event that|*if*|
+|At this point in time|*now*|
+|Obtain|*get*|
+|Subsequent|*after*|
+|In the vicinity of|*near*|
