@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Customization
-nav_order: 6
+nav_order: 11
 ---
 
-# Customization
+# (to remove) Customization
 {: .no_toc }
 
 ## Table of contents
