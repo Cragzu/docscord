@@ -1,7 +1,7 @@
 ---
 layout: default
-title: (default) Configuration
-nav_order: 2
+title: (to remove) Configuration
+nav_order: 7
 ---
 
 # Configuration
