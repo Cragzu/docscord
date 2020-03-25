@@ -45,3 +45,18 @@ becomes:
 becomes:
 `Many of us want to have a spring break for a chance to relax and recharge from our busy courseloads.`
 
+## Code Blocks Make Me Happy
+Here's how to write "Hello World" in Python:
+
+```py
+print("Hello World")
+```
+
+Here's how to write "Hello World" in Java:
+```java
+System.out.println("Hello World");
+```
+
+**I am SO done.**
+
+
