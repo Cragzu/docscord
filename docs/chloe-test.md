@@ -18,3 +18,11 @@ This second quote from [Robin Williams](https://www.brainyquote.com/quotes/robin
 I like parrots because they're cute, intelligent, and can talk, fly, and live for a very long time.
 
 ![alt text](https://wereallaboutpets.com/wp-content/uploads/2019/12/Cute-Parrot-Names.jpg "Three cute parrots on a branch")
+
+## Tables are Fun
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
