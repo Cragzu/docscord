@@ -21,8 +21,8 @@ I like parrots because they're cute, intelligent, and can talk, fly, and live fo
 
 ## Tables are Fun
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|Text|Simplified Text|
+| ---|---:|
+|      | right-aligned |
+|  | centered      |
+| zebra stripes | are neat      |
