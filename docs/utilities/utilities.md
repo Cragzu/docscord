@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Utilities
-nav_order: 4
+title: (to remove) Utilities
+nav_order: 9
 has_children: true
 permalink: docs/utilities
 ---
