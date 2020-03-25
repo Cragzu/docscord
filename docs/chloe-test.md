@@ -29,3 +29,19 @@ I like parrots because they're cute, intelligent, and can talk, fly, and live fo
 |Obtain|*get*|
 |Subsequent|*after*|
 |In the vicinity of|*near*|
+
+## Conciseness Helps Web Readers
+When writing on the web, it's good to use simple, easy-to-understand language. That way, readers are less likely to get bored or confused.
+
+### Example 1
+> At this point in time we can’t ascertain the reason as to why the screen door was left open.
+
+becomes:
+`Right now, we don't know why the screen door was left open.`
+
+### Example 2
+> There is a desire on the part of many of us to maintain a spring break for the purpose of getting away from the demands of our studies.
+
+becomes:
+`Many of us want to have a spring break for a chance to relax and recharge from our busy courseloads.`
+
