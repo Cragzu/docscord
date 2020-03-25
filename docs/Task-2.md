@@ -18,3 +18,9 @@ Placeholder text for task 2!
 {:toc}
 
 ---
+
+## Heading 1
+some random text
+
+## Heading 2
+more random text
