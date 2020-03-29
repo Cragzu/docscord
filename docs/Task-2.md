@@ -3,10 +3,10 @@ layout: default
 title: Using Voice Chat
 nav_order: 3
 ---
+<!---todo: image citation? --->
 
 # Using Voice Chat
 {: .no_toc }
-
 
 One of the main features of Discord is chatting with friends over a game, stream, or just for the sake of conversation. 
 In this section, we’ll go over the different ways you can utilize voice chat to stay in the loop, and customize your 
@@ -35,7 +35,13 @@ Scroll through the options on the left side, and click on **Voice & Video**.
 
 ![Voice & Video menu item](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/locate_voice_video_settings_tab.png?raw=true)
 
+You’ll be presented with a variety of settings; let’s examine two of the most important.
+
 ### Input and output devices
+
+For successful voice communication, you’ll need two things: 
+* **Input**, your microphone
+* **Output**, your headphones or speakers.
 
 ### Push-to-talk vs. voice-activated
 
