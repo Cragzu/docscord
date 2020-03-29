@@ -43,7 +43,13 @@ For successful voice communication, you’ll need two things:
 * **Input**, your microphone
 * **Output**, your headphones or speakers.
 
-### Push-to-talk vs. voice-activated
+In most cases, Discord will automatically detect your devices (often a headset) so you won’t have to do anything here. 
+However, it’s a good idea to double-check that the selected devices are the ones you want; issues with your voice going
+unheard are often due to the wrong microphone being selected.
+
+![Voice & Video menu item](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/select_input_device.jpg?raw=true)
+
+### Push-to-talk vs. voice activity mode
 
 ## Direct Message Calls
 more random text
