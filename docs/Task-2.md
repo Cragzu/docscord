@@ -8,7 +8,9 @@ nav_order: 3
 {: .no_toc }
 
 
-Placeholder text for task 2!
+One of the main features of Discord is chatting with friends over a game, stream, or just for the sake of conversation. 
+In this section, we’ll go over the different ways you can utilize voice chat to stay in the loop, and customize your 
+settings for the best experience.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -19,8 +21,11 @@ Placeholder text for task 2!
 
 ---
 
-## Heading 1
+## Voice Settings Configuration
 some random text
 
-## Heading 2
+## Direct Message Calls
 more random text
+
+## Server Voice Channels
+yet another piece of random text
