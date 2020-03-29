@@ -47,9 +47,17 @@ In most cases, Discord will automatically detect your devices (often a headset) 
 However, it’s a good idea to double-check that the selected devices are the ones you want; issues with your voice going
 unheard are often due to the wrong microphone being selected.
 
+The **Input Device** and **Output Device** sections allow you to select your desired option from the dropdown, 
+as well as tweak your incoming and outgoing volume levels.
+
 ![Voice & Video menu item](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/select_input_device.jpg?raw=true)
 
-### Push-to-talk vs. voice activity mode
+### Voice Activity vs. Push to Talk modes
+
+There are two ways to talk in Discord.
+* **Voice Activity** simply transmits your audio constantly, whenever your microphone detects it. This is the default setting.
+* **Push to Talk**, for those who prefer a bit more control, allows you to set up a custom hotkey that will activate 
+your mic only when held down.
 
 ## Direct Message Calls
 more random text
