@@ -26,6 +26,10 @@ like. There’s nothing worse than being unable to hear your teammates or awkwar
 to the group, so let’s take a look at some key areas of interest within Discord.
 
 ### Locating voice settings
+From anywhere in the Discord desktop or browser app, navigate to the **User Settings** gear-shaped button in 
+the lower left area.
+
+![alt text](assets/images/locate_settings_gear.png "Locate the settings gear")
 
 ### Input and output devices
 
