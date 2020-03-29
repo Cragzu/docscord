@@ -83,9 +83,22 @@ you’ve released the shortcut key. Simply adjust this slider to your preference
 
 ![Push to Talk settings](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/push_to_talk.png?raw=true)
 
-
 ## Direct Message Calls
-more random text
+Now that you’ve finessed all of your settings, it’s time to start a call! Chatting through **direct messages** (DMs) 
+is a private, easy way to communicate with only the people you want to be in the call. Between two and ten 
+people can be in a DM together. Let’s create one!
+
+---
+### Creating a Direct Message
+
+---
+### Initiating a Call
+
+---
+### Handling Incoming Calls
+
+---
+### Exiting a Call
 
 ## Server Voice Channels
 yet another piece of random text
