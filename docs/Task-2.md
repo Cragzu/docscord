@@ -29,7 +29,11 @@ to the group, so let’s take a look at some key areas of interest within Discor
 From anywhere in the Discord desktop or browser app, navigate to the **User Settings** gear-shaped button in 
 the lower left area.
 
-![alt text](assets/images/locate_settings_gear.png "Locate the settings gear")
+![Settings icon in Discord](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/locate_settings_gear.png?raw=true)
+
+Scroll through the options on the left side, and click on **Voice & Video**.
+
+![Voice & Video menu item](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/locate_voice_video_settings_tab.png?raw=true)
 
 ### Input and output devices
 
