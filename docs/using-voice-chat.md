@@ -90,6 +90,18 @@ people can be in a DM together. Let’s create one!
 
 ---
 ### Creating a Direct Message
+First of all, set up a DM channel. This will be your space to privately talk over text and voice 
+with only the select few people you want to invite. From the homepage, select the **Friends** tab, 
+then click on the **New Group DM** button.
+
+![Create DM button](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/create_dm_button.png?raw=true)
+
+You’ll then be able to choose up to nine friends to add to the DM, either by scrolling through the list or 
+typing in their username.
+
+![Add friends to DM](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/dm_select_friends.png?raw=true)
+
+Once you’ve picked all your people, click **Create Group DM**.
 
 ---
 ### Initiating a Call
