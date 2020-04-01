@@ -83,6 +83,7 @@ you’ve released the shortcut key. Simply adjust this slider to your preference
 
 ![Push to Talk settings](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/push_to_talk.png?raw=true)
 
+---
 ## 2. Direct Message Calls
 Now that you’ve finessed all of your settings, it’s time to start a call! Chatting through **direct messages** (DMs) 
 is a private, easy way to communicate with only the people you want to be in the call. Between two and ten 
@@ -155,13 +156,20 @@ The voice channel will remain active if there is even one person remaining, allo
 so don’t forget to exit once you’re done chatting!
 {: .fs-5 }
 
+---
 ## 3. Server Voice Channels
-Introductory text!
+Another way to connect over voice is through server **Voice Channels**. These are a bit different than DM calls in that they are always open and available for anyone to join and leave at any time, without notifying specific users.
 
+Most Discord servers will have at least one voice channel. Need a server? Why not 
+[make your own](http://chloe-glave.codes/just-the-docs/docs/making-a-server/)?
+
+---
 ### a) Joining a voice channel
 
+---
 ### b) Adjusting audio
 
+---
 ### c) Exiting a voice channel
 
 ---
