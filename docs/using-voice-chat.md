@@ -106,6 +106,22 @@ Once you’ve picked all your people, click **Create Group DM**.
 ---
 ### b) Initiating a Call
 
+Let’s say you want to be the one to take leadership of the team and start a voice call. 
+It’s as simple as pressing a button…
+
+**Caution:** 
+{: .fs-6 }
+clicking the **Start Voice Call** button will alert everyone in the DM group. 
+Be sure you’re ready to go before starting!
+
+On the upper right side of the DM screen, click **Start Voice Call**.
+
+![Start a call in DM](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/dm_select_friends.png?raw=true)
+
+Once someone accepts the call, you’ll be connected! More people can always join in the active call, 
+as long as they’re a part of the DM.
+
+
 ---
 ### c) Handling Incoming Calls
 
