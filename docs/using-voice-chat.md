@@ -3,7 +3,7 @@ layout: default
 title: Using Voice Chat
 nav_order: 3
 ---
-<!--- actions should have numbers, use command verbs, actions and info should be on separate lines --->
+<!--- use command verbs, actions and info should be on separate lines --->
 
 # Using Voice Chat
 {: .no_toc }
@@ -109,9 +109,9 @@ Once you’ve picked all your people, click **Create Group DM**.
 Let’s say you want to be the one to take leadership of the team and start a voice call. 
 It’s as simple as pressing a button…
 
-**Caution:** 
-{: .fs-5 } clicking the **Start Voice Call** button will alert everyone in the DM group. 
+**Caution:** clicking the **Start Voice Call** button will alert everyone in the DM group. 
 Be sure you’re ready to go before starting!
+{: .fs-4 }
 
 On the upper right side of the DM screen, click **Start Voice Call**.
 
@@ -122,6 +122,25 @@ as long as they’re a part of the DM.
 
 ---
 ### c) Handling Incoming Calls
+
+Alternatively, if you’d rather sit back and wait for the calls to roll in (or if someone else beat you to it), 
+you can join into an existing call.
+
+When someone in your DM starts a call, you’ll be notified with an alert and ringtone. Join in by clicking 
+the green **Join Call** button, and you’re ready to go!
+
+![Join a call in DM](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/join_dm_call.png?raw=true)
+
+Once you’re in the call, you’ll notice a few key pieces of iconography.
+
+* A **green ring** around a user’s profile picture means they are actively transmitting audio. 
+This is a good way of making sure others can hear you speaking.
+* A **crossed-out microphone** means that user has *muted* themselves (they won’t be able to speak)
+* **Crossed-out headphones** means that user has *deafened* themselves (they won’t be able to speak or hear any other users)
+
+![Icon meanings in DM call](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/dm_call_iconography.png?raw=true)
+
+You can *mute* or *deafen* yourself by right-clicking your own profile picture and checking or un-checking the boxes in the pop-up.
 
 ---
 ### d) Exiting a Call
