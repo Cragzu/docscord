@@ -156,4 +156,13 @@ so don’t forget to exit once you’re done chatting!
 {: .fs-5 }
 
 ## 3. Server Voice Channels
-yet another piece of random text
+Introductory text!
+
+### a) Joining a voice channel
+
+### b) Adjusting audio
+
+### c) Exiting a voice channel
+
+---
+Conclusion text!!
