@@ -183,6 +183,14 @@ let you type, and joining a voice channel will connect you to the call. Click on
 ---
 ### b) Adjusting audio
 
+Once you’re in a voice channel with some friends, you’re good to go!
+
+Sometimes, certain people are louder than others. If you need to turn someone’s audio louder or quieter, simply 
+right-click on their name and adjust the **User Volume** slider. This will only change their volume level for you, 
+so there’s no need to worry about anyone else noticing the difference.
+
+![Adjust user volume](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/adjust_user_volume.png?raw=true)
+
 ---
 ### c) Exiting a voice channel
 
