@@ -166,6 +166,20 @@ Most Discord servers will have at least one voice channel. Need a server? Why no
 ---
 ### a) Joining a voice channel
 
+On the leftmost side of the Discord interface, you’ll see a list of **server**s you belong to. Each one is 
+represented by a circular icon image. Click on one to hop into the server!
+
+![Discord server list](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/server_list.png?raw=true)
+
+Discord servers have two main forms of communication, known as **Channels**:
+* **Text channels**, denoted by a hash (#) symbol
+* **Voice channels**, denoted by a megaphone symbol
+
+Both types of channels can be selected by clicking on them. Text channels will display message history and 
+let you type, and joining a voice channel will connect you to the call. Click on a voice channel to get started!
+
+![Discord channel list](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/server_channel_list.png?raw=true)
+
 ---
 ### b) Adjusting audio
 
