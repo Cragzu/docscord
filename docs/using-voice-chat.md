@@ -111,7 +111,7 @@ It’s as simple as pressing a button…
 
 **Caution:** clicking the **Start Voice Call** button will alert everyone in the DM group. 
 Be sure you’re ready to go before starting!
-{: .fs-4 }
+{: .fs-5 }
 
 On the upper right side of the DM screen, click **Start Voice Call**.
 
@@ -129,7 +129,7 @@ you can join into an existing call.
 When someone in your DM starts a call, you’ll be notified with an alert and ringtone. Join in by clicking 
 the green **Join Call** button, and you’re ready to go!
 
-![Join a call in DM](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/join_dm_call.png?raw=true)
+![Join a call in DM](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/join_dm_call.jpg?raw=true)
 
 Once you’re in the call, you’ll notice a few key pieces of iconography.
 
@@ -144,6 +144,16 @@ You can *mute* or *deafen* yourself by right-clicking your own profile picture a
 
 ---
 ### d) Exiting a Call
+
+All good things must come to an end. When you’re ready to call it quits, just click 
+the red **Leave Call** button to exit the call.
+
+![Exit DM call](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/dm_leave_call.png?raw=true)
+
+**Note:** You’ll still need to leave the call even if everyone else has left. 
+The voice channel will remain active if there is even one person remaining, allowing others to re-join, 
+so don’t forget to exit once you’re done chatting!
+{: .fs-5 }
 
 ## 3. Server Voice Channels
 yet another piece of random text
