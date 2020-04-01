@@ -4,11 +4,13 @@ title: Troubleshooting
 nav_order: 6
 ---
 
+<!--- find up to 5 things that could go wrong, show user how to fix. try the instructions to see where these could be --->
+
 # Troubleshooting
 {: .no_toc }
 
 
-Placeholder text for task 2!
+Oh no something went wrong :(
 {: .fs-6 .fw-300 }
 
 ## Table of contents

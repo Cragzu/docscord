@@ -8,6 +8,10 @@ permalink: /
 
 # DocsCord
 
+<!--- state clearly the expected level of the reader (what can they do?) --->
+<!--- clarify purpose, explain necessity, state assumptions/conventions --->
+<!--- what device/os/version of software are the instructions for? assuming they have it already? give link to download --->
+
 Clear, readable documentation to help you get started using Discord.
 {: .fs-6 .fw-300 }
 
