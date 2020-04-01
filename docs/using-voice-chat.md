@@ -205,4 +205,5 @@ The **Disconnect** phone-shaped icon is located on the bottom left of the window
 You’ve successfully left the channel when you see your name and profile disappear from the channel.
 
 ---
-Conclusion text!!
+That’s it! Now you’re a pro at all things voice-chat related on Discord. If you need additional help, try 
+the [Troubleshooting](http://chloe-glave.codes/just-the-docs/docs/troubleshooting/) page. Good luck, and have fun!
