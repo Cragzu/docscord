@@ -175,8 +175,9 @@ Discord servers have two main forms of communication, known as **Channels**:
 * **Text channels**, denoted by a hash (#) symbol
 * **Voice channels**, denoted by a megaphone symbol
 
-Both types of channels can be selected by clicking on them. Text channels will display message history and 
-let you type, and joining a voice channel will connect you to the call. Click on a voice channel to get started!
+Both types of channels can be selected by clicking on them (displayed in the left side of the server view). 
+Text channels will display message history and let you type, and joining a voice channel will connect you to the call. 
+Click on a voice channel to get started! You should see your name and profile picture appear underneath the channel name.
 
 ![Discord channel list](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/server_channel_list.png?raw=true)
 
@@ -193,6 +194,15 @@ so there’s no need to worry about anyone else noticing the difference.
 
 ---
 ### c) Exiting a voice channel
+
+Once you’re all done talking, you’ll need to leave the channel. Similarly to a 
+[Direct Message call](http://chloe-glave.codes/just-the-docs/docs/using-voice-chat/#d-exiting-a-call), 
+you will remain active in the channel until you disconnect from it, regardless of whether anyone else is there. 
+The **Disconnect** phone-shaped icon is located on the bottom left of the window.
+
+![Leave server voice channel](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/server_vc_disconnect.png?raw=true)
+
+You’ve successfully left the channel when you see your name and profile disappear from the channel.
 
 ---
 Conclusion text!!
