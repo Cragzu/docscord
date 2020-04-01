@@ -20,13 +20,13 @@ settings for the best experience.
 
 ---
 
-## Voice Settings Configuration
+## 1. Voice Settings Configuration
 The first step you’ll need to take in your auditory adventure is making sure your settings are laid out exactly how you 
 like. There’s nothing worse than being unable to hear your teammates or awkwardly broadcasting your microphone issues 
 to the group, so let’s take a look at some key areas of interest within Discord.
 
 ---
-### Locating voice settings
+### a) Locating voice settings
 From anywhere in the Discord desktop or browser app, navigate to the **User Settings** gear-shaped button in 
 the lower left area.
 
@@ -39,7 +39,7 @@ Scroll through the options on the left side, and click on **Voice & Video**.
 You’ll be presented with a variety of settings; let’s examine two of the most important.
 
 ---
-### Input and output devices
+### b) Input and output devices
 
 For successful voice communication, you’ll need two things: 
 * **Input**, your microphone
@@ -55,7 +55,7 @@ as well as tweak your incoming and outgoing volume levels.
 ![Select your input device](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/select_input_device.jpg?raw=true)
 
 ---
-### Voice Activity vs. Push to Talk modes
+### c) Voice Activity vs. Push to Talk modes
 
 There are two ways to talk in Discord.
 * **Voice Activity** simply transmits your audio constantly, whenever your microphone detects it. This is the default setting.
@@ -83,13 +83,13 @@ you’ve released the shortcut key. Simply adjust this slider to your preference
 
 ![Push to Talk settings](https://github.com/Cragzu/just-the-docs/blob/master/assets/images/push_to_talk.png?raw=true)
 
-## Direct Message Calls
+## 2. Direct Message Calls
 Now that you’ve finessed all of your settings, it’s time to start a call! Chatting through **direct messages** (DMs) 
 is a private, easy way to communicate with only the people you want to be in the call. Between two and ten 
 people can be in a DM together. Let’s create one!
 
 ---
-### Creating a Direct Message
+### a) Creating a Direct Message
 First of all, set up a DM channel. This will be your space to privately talk over text and voice 
 with only the select few people you want to invite. From the homepage, select the **Friends** tab, 
 then click on the **New Group DM** button.
@@ -104,13 +104,13 @@ typing in their username.
 Once you’ve picked all your people, click **Create Group DM**.
 
 ---
-### Initiating a Call
+### b) Initiating a Call
 
 ---
-### Handling Incoming Calls
+### c) Handling Incoming Calls
 
 ---
-### Exiting a Call
+### d) Exiting a Call
 
-## Server Voice Channels
+## 3. Server Voice Channels
 yet another piece of random text
