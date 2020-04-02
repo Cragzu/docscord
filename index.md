@@ -17,15 +17,33 @@ Clear, readable documentation to help you get started using Discord.
 
 
 ---
-### What is this?
+## What is this?
 
-### Who are you?
+## Who are you?
 
-### What conventions do these instructions use?
+## What conventions do these instructions use?
 
-### What do you need?
+These instructions use the following typographical conventions to help with clarity and conciseness:
 
-### Credits
+* Exact names of buttons, labels, and terminology in Discord, such as the text that would appear on a tooltip 
+when hovering the mouse over a button, are written in **bold**.
+* Actions and names of features within Discord, such as “channels” or “servers”, are written in *italics*.
+* Instructions are written in sequential numbered and lettered lists in order to be easy to follow; 
+each section is also self-contained, so you shouldn’t need to read them in any particular order.
+* Points of interest within images and screenshots are highlighted with red boxes.
+
+
+## What do you need?
+
+These instructions are for the current version of Windows desktop or browser Discord client as of April 2020. 
+We’re using Windows 10 64-Bit (10.0.18363); however, these instructions will likely work with most versions 
+of Discord, as its core features rarely change drastically.
+
+All you’ll need for these tutorials is a new or pre-existing Discord account.
+
+Download the Discord desktop app or open the browser client [here](https://discordapp.com/).
+
+## Credits
 
 This documentation was written by [Chloe Glave](https://github.com/Cragzu/) and [Jacky Lau](https://github.com/JackyLau01/).
 
