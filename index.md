@@ -15,10 +15,22 @@ permalink: /
 Clear, readable documentation to help you get started using Discord.
 {: .fs-6 .fw-300 }
 
+
 ---
+### What is this?
 
-COMM 2216 - Business Communications 2
+### Who are you?
 
-Chloe Glave & Jacky Lau
+### What conventions do these instructions use?
+
+### What do you need?
+
+### Credits
+
+This documentation was written by [Chloe Glave](https://github.com/Cragzu/) and [Jacky Lau](https://github.com/JackyLau01/).
+
+Requested by Sam Lee, BCIT [COMM 2216](https://www.bcit.ca/study/outlines/20201086153) - Business Communications 2.
 
 Some images for this project taken from [Discord Support](https://support.discordapp.com/hc/en-us).
+
+[Just the Docs](https://github.com/pmarsceill/just-the-docs) Jekyll theme was created by Patrick Marsceill.
