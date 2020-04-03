@@ -19,6 +19,16 @@ Clear, readable documentation to help you get started using Discord.
 ---
 ## What is this?
 
+DocsCord is a friendly, easy-to-digest guide to getting started with the basics of using Discord, a text and voice 
+communication platform for gamers.
+
+Throughout the site, you’ll find instructions that will help you learn how to navigate Discord and 
+become a pro in no time! We also have a [glossary](http://chloe-glave.codes/just-the-docs/docs/glossary/) 
+for further research and a [troubleshooting](http://chloe-glave.codes/just-the-docs/docs/troubleshooting/) 
+page for when things go wrong.
+
+Please note that this documentation is *unofficial* and was written for a communications project.
+
 ---
 ## Who are you?
 
@@ -58,6 +68,8 @@ Download the Discord desktop app or open the browser client [here](https://disco
 ## Credits
 
 This documentation was written by [Chloe Glave](https://github.com/Cragzu/) and [Jacky Lau](https://github.com/JackyLau01/).
+
+We are not affiliated with Discord in any way, this project was created for educational purposes.
 
 Requested by Sam Lee, BCIT [COMM 2216](https://www.bcit.ca/study/outlines/20201086153) - Business Communications 2.
 
