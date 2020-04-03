@@ -21,6 +21,15 @@ Clear, readable documentation to help you get started using Discord.
 
 ## Who are you?
 
+In this documentation, we’re assuming that you are a moderately proficient computer user. Discord is primarily meant 
+for video gamers, so you likely have some experience with games; however, it’s okay if you’re brand-new to Discord.
+
+To get the most out of these instructions, you should:
+
+* Be comfortable with mouse and keyboard (simple key commands like **Ctrl+C**, **Ctrl+V**, left and right click)
+* Own and know how to use audio input and output devices, such as a headset with a microphone
+* Have experience using basic Windows software applications (e.g. Chrome, Steam, Spotify)
+
 ## What conventions do these instructions use?
 
 These instructions use the following typographical conventions to help with clarity and conciseness:
