@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "just-the-docs"
+  spec.name          = "docscord"
   spec.version       = "0.2.7"
   spec.authors       = ["Patrick Marsceill"]
   spec.email         = ["patrick.marsceill@gmail.com"]
@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|bin|_layouts|_includes|lib|Rakefile|_sass|LICENSE|README)}i) }
-  spec.executables   << 'just-the-docs'
+  spec.executables   << 'docscord'
 
   spec.add_runtime_dependency "jekyll", "~> 3.8.5"
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.0"
