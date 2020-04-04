@@ -1,7 +1,7 @@
 <p align="center">
     <h1 align="center">DocsCord</h1>
     <p align="center">Clear, readable documentation to help you get started using Discord.</p>
-    <p align="center"><strong><a href="http://chloe-glave.codes/just-the-docs/">See it in action!</a></strong>
+    <p align="center"><strong><a href="http://chloe-glave.codes/docscord/">See it in action!</a></strong>
 </p>
 
 ### What is this?

@@ -23,8 +23,8 @@ DocsCord is a friendly, easy-to-digest guide to getting started with the basics 
 communication platform for gamers.
 
 Throughout the site, you’ll find instructions that will help you learn how to navigate Discord and 
-become a pro in no time! We also have a [glossary](http://chloe-glave.codes/just-the-docs/docs/glossary/) 
-for further research and a [troubleshooting](http://chloe-glave.codes/just-the-docs/docs/troubleshooting/) 
+become a pro in no time! We also have a [glossary](http://chloe-glave.codes/docscord/docs/glossary/) 
+for further research and a [troubleshooting](http://chloe-glave.codes/docscord/docs/troubleshooting/) 
 page for when things go wrong.
 
 Please note that this documentation is *unofficial* and was written for a communications project.
