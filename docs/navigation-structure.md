@@ -1,7 +1,7 @@
 ---
 layout: default
 title: (to remove) Navigation Structure
-nav_order: 10
+nav_exclude: true
 ---
 
 # Navigation Structure

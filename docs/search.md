@@ -1,7 +1,7 @@
 ---
 layout: default
 title: (to remove) Search
-nav_order: 12
+nav_exclude: true
 ---
 
 # Search
