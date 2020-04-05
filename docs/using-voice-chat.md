@@ -3,7 +3,6 @@ layout: default
 title: Using Voice Chat
 nav_order: 3
 ---
-<!--- use command verbs, actions and info should be on separate lines --->
 
 # Using Voice Chat
 {: .no_toc }
