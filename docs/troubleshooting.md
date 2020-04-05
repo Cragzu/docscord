@@ -9,20 +9,12 @@ nav_order: 6
 # Troubleshooting
 {: .no_toc }
 
+introductory text for troubleshooting
 
-Oh no something went wrong :(
-{: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-## Heading 1
-some random text
-
-## Heading 2
-more random text
+| Issue | Probable cause | Solution |
+|-------|----------------|----------|
+| a     | b              | c        |
+| a     | b              | c        |
+| a     | b              | c        |
+| a     | b              | c        |
+| a     | b              | c        |
